@@ -1,1 +1,1 @@
-# pet_project_dota_2
+# Предсказание победы в Dota 2
